@@ -1,4 +1,5 @@
-# 📊 Dashboard Interativo de Ativos Financeiros
+# 📊 Dashboard Analítico Financeiro e Pipeline ETL
+### *Transformando dados brutos em inteligência estratégica*
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -8,30 +9,42 @@
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-## 🎯 Visão de Negócios e Objetivo
-O objetivo desta aplicação é transformar dados brutos do mercado financeiro em informações visuais e acionáveis. Através de uma interface web interativa, gestores e analistas podem acompanhar a evolução do preço de fechamento de diversos ativos em tempo real, facilitando a tomada de decisão.
+## 🎯 Visão de Negócios e Valor Entregue
+[cite_start]Este projeto resolve a dor da coleta e visualização manual de dados financeiros[cite: 171]. [cite_start]O objetivo é converter dados brutos em uma interface web interativa e responsiva, otimizando a experiência do usuário final e permitindo tomadas de decisão baseadas em evidências em tempo real[cite: 173, 174].
 
-## 🗄️ Origem dos Dados (Pipeline ETL)
-Os dados consumidos por este dashboard (armazenados no banco SQLite) são extraídos, tratados e atualizados de forma automatizada pelo meu script de Engenharia de Dados. Você pode conferir a arquitetura completa do pipeline de extração acessando o repositório base abaixo:
+## ⚙️ Destaques da Solução (Foco Builder)
+* [cite_start]**Automação de Dados:** Ingestão automatizada via APIs, eliminando processos manuais de coleta em planilhas e reduzindo o erro humano em 100%[cite: 171].
+* [cite_start]**Integridade Analítica:** Implementação de rotinas de limpeza e normalização de dados com Pandas, assegurando a consistência para análises estratégicas[cite: 172].
+* [cite_start]**Visualização Estratégica:** Gráficos dinâmicos e filtros customizados utilizando **Plotly**, facilitando a identificação de tendências e performance de ativos[cite: 173].
+* [cite_start]**Arquitetura Escalável:** Persistência de dados estruturada em banco relacional **SQLite**, garantindo consultas rápidas e organização eficiente do histórico[cite: 166].
 
-<a href="https://github.com/JeanCarlosB/pipeline-etl-acoes">Repositório: Pipeline ETL de Ações</a>
+## 🗄️ Arquitetura do Pipeline
+Os dados consumidos por este dashboard são processados por um fluxo de Engenharia de Dados que você pode conferir detalhadamente no repositório abaixo:
 
-## ⚙️ Funcionalidades
-* **Filtros Dinâmicos:** Seleção múltipla de ativos financeiros diretamente na barra lateral.
-* **Gráficos Interativos:** Visualização da evolução temporal dos preços com zoom e detalhamento ao passar o mouse.
-* **Acesso aos Dados Brutos:** Opção de visualizar a tabela completa gerada pelas consultas SQL para auditoria rápida.
+👉 [**Repositório: Pipeline ETL de Ações**](https://github.com/JeanCarlosB/pipeline-etl-acoes)
 
 ## 🚀 Como executar o projeto na sua máquina
 Certifique-se de ter o Python instalado e siga os passos abaixo no seu terminal:
 
-1. Clone este repositório para o seu computador.
-2. Instale as bibliotecas necessárias executando: pip install -r requirements.txt
-3. Inicie o servidor web da aplicação: streamlit run app.py
-4. O painel abrirá automaticamente no seu navegador padrão.
+1.  Clone este repositório para o seu computador.
+2.  Instale as bibliotecas necessárias: 
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  Inicie o servidor da aplicação: 
+    ```bash
+    streamlit run app.py
+    ```
+4.  O painel abrirá automaticamente no seu navegador padrão.
 
 ---
 
 ## 📚 Outros Projetos Acadêmicos
-Caso queira conhecer mais do meu histórico, desenvolvi também um projeto colaborativo focado puramente em modelagem e ciência de dados sobre ações e obtive ótimos resultados. Você pode conferir a pesquisa completa acessando o link abaixo:
+Desenvolvi também um projeto colaborativo focado em modelagem estatística e ciência de dados sobre o mercado financeiro com resultados avançados:
 
-<a href="https://github.com/Juliana001/Datascience-para-Mercado-Financeiro---Projeto-final">Ciência de Dados para Mercado Financeiro - Projeto Final</a>
+👉 [**Ciência de Dados para Mercado Financeiro - Projeto Final**](https://github.com/Juliana001/Datascience-para-Mercado-Financeiro---Projeto-final)
+
+---
+[cite_start]**Jean Carlos Barros da Mata** [cite: 156]
+*Engenheiro de Soluções Técnicas*
+[cite_start]📧 [jeansol.dev@gmail.com](mailto:jeansol.dev@gmail.com) [cite: 157] | [cite_start]🔗 [LinkedIn](https://linkedin.com/in/jean-carlos-barros) [cite: 157]
