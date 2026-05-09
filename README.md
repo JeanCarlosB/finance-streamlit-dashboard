@@ -10,13 +10,13 @@
 </p>
 
 ## 🎯 Visão de Negócios e Valor Entregue
-[cite_start]Este projeto resolve a dor da coleta e visualização manual de dados financeiros[cite: 171]. [cite_start]O objetivo é converter dados brutos em uma interface web interativa e responsiva, otimizando a experiência do usuário final e permitindo tomadas de decisão baseadas em evidências em tempo real[cite: 173, 174].
+Este projeto resolve a dor da coleta e visualização manual de dados financeiros. O objetivo é converter dados brutos em uma interface web interativa e responsiva, otimizando a experiência do usuário final e permitindo tomadas de decisão baseadas em evidências em tempo real.
 
 ## ⚙️ Destaques da Solução (Foco Builder)
-* [cite_start]**Automação de Dados:** Ingestão automatizada via APIs, eliminando processos manuais de coleta em planilhas e reduzindo o erro humano em 100%[cite: 171].
-* [cite_start]**Integridade Analítica:** Implementação de rotinas de limpeza e normalização de dados com Pandas, assegurando a consistência para análises estratégicas[cite: 172].
-* [cite_start]**Visualização Estratégica:** Gráficos dinâmicos e filtros customizados utilizando **Plotly**, facilitando a identificação de tendências e performance de ativos[cite: 173].
-* [cite_start]**Arquitetura Escalável:** Persistência de dados estruturada em banco relacional **SQLite**, garantindo consultas rápidas e organização eficiente do histórico[cite: 166].
+* **Automação de Dados:** Ingestão automatizada via APIs, eliminando processos manuais de coleta em planilhas e reduzindo o erro humano em 100%.
+* **Integridade Analítica:** Implementação de rotinas de limpeza e normalização de dados com Pandas, assegurando a consistência para análises estratégicas.
+* **Visualização Estratégica:** Gráficos dinâmicos e filtros customizados utilizando **Plotly**, facilitando a identificação de tendências e performance de ativos.
+* **Arquitetura Escalável:** Persistência de dados estruturada em banco relacional **SQLite**, garantindo consultas rápidas e organização eficiente do histórico.
 
 ## 🗄️ Arquitetura do Pipeline
 Os dados consumidos por este dashboard são processados por um fluxo de Engenharia de Dados que você pode conferir detalhadamente no repositório abaixo:
@@ -45,6 +45,7 @@ Desenvolvi também um projeto colaborativo focado em modelagem estatística e ci
 👉 [**Ciência de Dados para Mercado Financeiro - Projeto Final**](https://github.com/Juliana001/Datascience-para-Mercado-Financeiro---Projeto-final)
 
 ---
-[cite_start]**Jean Carlos Barros da Mata** [cite: 156]
+**Jean Carlos Barros da Mata**
 *Engenheiro de Soluções Técnicas*
-[cite_start]📧 [jeansol.dev@gmail.com](mailto:jeansol.dev@gmail.com) [cite: 157] | [cite_start]🔗 [LinkedIn](https://linkedin.com/in/jean-carlos-barros) [cite: 157]
+📧 [jeansol.dev@gmail.com](mailto:jeansol.dev@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/jean-carlos-barros)
