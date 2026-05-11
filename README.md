@@ -13,7 +13,9 @@
 Este projeto resolve a dor da coleta e visualização manual de dados financeiros. O objetivo é converter dados brutos em uma interface web interativa e responsiva, otimizando a experiência do usuário final e permitindo tomadas de decisão baseadas em evidências em tempo real.
 
 <div align="center">
-  <video src="dash.mp4" width="100%" controls muted autoplay loop></video>
+  <video src="https://github.com/JeanCarlosB/finance-streamlit-dashboard/raw/main/dash.mp4" width="100%" controls muted autoplay loop>
+    Seu navegador não suporta a exibição de vídeos.
+  </video>
 </div>
 
 ## ⚙️ Destaques da Solução 
