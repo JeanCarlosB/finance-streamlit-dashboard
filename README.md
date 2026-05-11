@@ -9,14 +9,14 @@
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
+## 📺 Demonstração do Dashboard
+
+[![Assistir Vídeo](https://img.shields.io/badge/ASSISTIR_VÍDEO_DO_PROJETO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/JeanCarlosB/finance-streamlit-dashboard/blob/main/dash.mp4)
+
+> 💡 **Obs:** Ao clicar, você será redirecionado para um vídeo de demostração, é preciso fazer o download para visualizar.
+
 ## 🎯 Visão de Negócios e Valor Entregue
 Este projeto resolve a dor da coleta e visualização manual de dados financeiros. O objetivo é converter dados brutos em uma interface web interativa e responsiva, otimizando a experiência do usuário final e permitindo tomadas de decisão baseadas em evidências em tempo real.
-
-<div align="center">
-  <video src="https://github.com/JeanCarlosB/finance-streamlit-dashboard/raw/main/dash.mp4" width="100%" controls muted autoplay loop>
-    Seu navegador não suporta a exibição de vídeos.
-  </video>
-</div>
 
 ## ⚙️ Destaques da Solução 
 * **Automação de Dados:** Ingestão automatizada via APIs, eliminando processos manuais de coleta em planilhas e reduzindo o erro humano em 100%.
