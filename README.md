@@ -12,7 +12,11 @@
 ## 🎯 Visão de Negócios e Valor Entregue
 Este projeto resolve a dor da coleta e visualização manual de dados financeiros. O objetivo é converter dados brutos em uma interface web interativa e responsiva, otimizando a experiência do usuário final e permitindo tomadas de decisão baseadas em evidências em tempo real.
 
-## ⚙️ Destaques da Solução (Foco Builder)
+<div align="center">
+  <video src="dash.mp4" width="100%" controls muted autoplay loop></video>
+</div>
+
+## ⚙️ Destaques da Solução 
 * **Automação de Dados:** Ingestão automatizada via APIs, eliminando processos manuais de coleta em planilhas e reduzindo o erro humano em 100%.
 * **Integridade Analítica:** Implementação de rotinas de limpeza e normalização de dados com Pandas, assegurando a consistência para análises estratégicas.
 * **Visualização Estratégica:** Gráficos dinâmicos e filtros customizados utilizando **Plotly**, facilitando a identificação de tendências e performance de ativos.
